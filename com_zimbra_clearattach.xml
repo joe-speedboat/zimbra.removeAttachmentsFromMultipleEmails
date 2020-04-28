@@ -1,0 +1,4 @@
+<zimlet name="com_zimbra_clearattach" version="0.4" label="DelAttMulti" description="Delete attachments from multiple email messages.">
+	<include>clearattach.js</include>
+	<handlerObject>com_zimbra_clearattach_HandlerObject</handlerObject>
+</zimlet>
